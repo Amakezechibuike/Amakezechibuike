@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amakezechibuike
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning php
+- 🌱 I’m code with php with almost 4 years of experience
 - 💞️ I’m looking to collaborate on jobs
 - 📫 How to reach me: kaykay76541@gmail.com
 
